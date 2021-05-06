@@ -1,0 +1,10 @@
+{
+	"name": "com.aela.pref-utils",
+	"version": "0.1.0",
+	"displayName": "Pref Utils",
+	"description": "Makes working with Unity prefs a bit easier.",
+	"documentationUrl": "https://github.com/aestheticianlabs/pref-utils",
+	"changelogUrl": "https://github.com/aestheticianlabs/pref-utils/releases",
+	"licensesUrl": "https://github.com/aestheticianlabs/pref-utils/blob/master/LICENSE.txt",
+	"unity": "2018.4"
+}
