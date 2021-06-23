@@ -1,3 +1,14 @@
 {
-	"name": "com.aela.pref-utils"
+    "name": "com.aela.pref-utils",
+    "rootNamespace": "PrefUtils",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
